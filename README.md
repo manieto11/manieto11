@@ -32,15 +32,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manieto11&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manieto11&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=manieto11&theme=radical&hide_border=true)
-
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=manieto11&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="MaNieto11's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=manieto11&theme=transparent&count_private=true&border_radius=10&locale=en" alt="MaNieto11's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=manieto11&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="MaNieto11's Most Used Languages" />
 </div>
+
+<hr>
 
 ---
 
