@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **exciting projects**
+- 🔭 I'm currently working on **developing an indie game**
 - 🌱 I'm currently learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **[Your contact info]**
+- 📫 How to reach me: **marcnietoruiz@gmail.com**
 - ⚡ Fun fact: **I love coding!**
 
 ---
