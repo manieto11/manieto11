@@ -25,14 +25,11 @@ I'm a passionate **Software Developer** and **Game Enthusiast** with a keen inte
 <div align="center">
 
 ### 💻 Programming & Development
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -44,27 +41,13 @@ I'm a passionate **Software Developer** and **Game Enthusiast** with a keen inte
 
 ---
 
-## 💼 What I Do
-
-<div align="center">
-
-```
-🎯 Game Development  │  Building immersive and engaging gaming experiences
-💻 Software Engineering  │  Crafting clean, efficient, and scalable solutions
-🌐 Open Source  │  Contributing to the community and learning from others
-🚀 Innovation  │  Exploring new technologies and creative approaches
-```
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align=center>
   <!--<img width=390 src="https://github-readme-stats.vercel.app/api?username=manieto11&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="MaNieto11's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=manieto11&theme=transparent&count_private=true&border_radius=10&locale=en" alt="MaNieto11's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=manieto11&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="MaNieto11's Most Used Languages" />-->
+  
   ![GitHub followers](https://img.shields.io/github/followers/manieto11?style=social)
   ![GitHub stars](https://img.shields.io/github/stars/manieto11?style=social)
 </div>
