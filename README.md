@@ -9,22 +9,51 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **developing an indie game**
-- 🌱 I'm currently learning **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **marcnietoruiz@gmail.com**
-- ⚡ Fun fact: **I love coding!**
+I'm a passionate **Software Developer** and **Game Enthusiast** with a keen interest in creating innovative solutions and interactive experiences. I thrive on learning new technologies and contributing to meaningful projects that make a difference.
+
+- 🎮 **Current Focus**: Developing an indie game that combines engaging gameplay with cutting-edge technology
+- 🌱 **Learning Journey**: Exploring game development frameworks, advanced programming patterns, and modern web technologies
+- 🤝 **Collaboration**: Actively seeking opportunities to collaborate on open source projects and innovative software solutions
+- 💡 **Expertise**: Full-stack development, game programming, version control, and problem-solving
+- 📫 **Get in Touch**: marcnietoruiz@gmail.com
+- ⚡ **Fun Fact**: I believe that great code is like a well-designed game - it should be intuitive, efficient, and enjoyable to work with!
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### 💻 Programming & Development
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 💼 What I Do
+
+<div align="center">
+
+```
+🎯 Game Development  │  Building immersive and engaging gaming experiences
+💻 Software Engineering  │  Crafting clean, efficient, and scalable solutions
+🌐 Open Source  │  Contributing to the community and learning from others
+🚀 Innovation  │  Exploring new technologies and creative approaches
+```
 
 </div>
 
@@ -53,5 +82,11 @@
 ---
 
 <div align="center">
-  <i>✨ Thanks for visiting! Feel free to explore my repositories and don't forget to star ⭐ the ones you like! ✨</i>
+  <h3>💫 Thanks for stopping by!</h3>
+  <p>
+    <i>Feel free to explore my repositories and projects. If you find something interesting, don't hesitate to star ⭐ it or reach out for collaboration!</i>
+  </p>
+  <p>
+    <i>Let's build something amazing together! 🚀</i>
+  </p>
 </div>
