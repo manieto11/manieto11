@@ -35,9 +35,11 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=manieto11&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="MaNieto11's GitHub Stats" />
+  <!--<img width=390 src="https://github-readme-stats.vercel.app/api?username=manieto11&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="MaNieto11's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=manieto11&theme=transparent&count_private=true&border_radius=10&locale=en" alt="MaNieto11's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=manieto11&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="MaNieto11's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=manieto11&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="MaNieto11's Most Used Languages" />-->
+  [![GitHub followers](https://img.shields.io/github/followers/manieto11?style=social)](https://github.com/manieto11)
+  [![GitHub stars](https://img.shields.io/github/stars/manieto11?style=social)](https://github.com/manieto11)
 </div>
 
 <hr>
