@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** and **Game Enthusiast** with a keen interest in creating innovative solutions and interactive experiences. I thrive on learning new technologies and contributing to meaningful projects that make a difference.
+I'm a passionate **Software Developer** and **Game Enthusiast** with a keen interest in creating innovative solutions and interactive experiences. I thrive on learning new technologies and contributing to exciting projects.
 
 - 🎮 **Current Focus**: Developing an indie game that combines engaging gameplay with cutting-edge technology
 - 🌱 **Learning Journey**: Exploring game development frameworks, advanced programming patterns, and modern web technologies
@@ -25,8 +25,12 @@ I'm a passionate **Software Developer** and **Game Enthusiast** with a keen inte
 <div align="center">
 
 ### 💻 Programming & Development
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Pascal](https://img.shields.io/badge/-Pascal-E3F171?style=flat-square&logo=delphi&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
@@ -44,9 +48,9 @@ I'm a passionate **Software Developer** and **Game Enthusiast** with a keen inte
 ## 📊 GitHub Stats
 
 <div align=center>
-  <!--<img width=390 src="https://github-readme-stats.vercel.app/api?username=manieto11&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="MaNieto11's GitHub Stats" />
+  <!--<img width=390 src="https://github-readme-stats.vercel.app/api?username=manieto11&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="MaNieto11's GitHub Stats" />-->
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=manieto11&theme=transparent&count_private=true&border_radius=10&locale=en" alt="MaNieto11's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=manieto11&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="MaNieto11's Most Used Languages" />-->
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=manieto11&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="MaNieto11's" />
   
   ![GitHub followers](https://img.shields.io/github/followers/manieto11?style=social)
   ![GitHub stars](https://img.shields.io/github/stars/manieto11?style=social)
