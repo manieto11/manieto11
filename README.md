@@ -10,14 +10,14 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a passionate **Software Developer** and **Game Enthusiast** with a keen interest in creating innovative solutions and interactive experiences. I thrive on learning new technologies and contributing to exciting projects.
+I really like **Software and Game Development** and I'm into learning new technologies.
 
--  **Current Focus**: Developing an indie game that combines engaging gameplay with cutting-edge technology
--  **Learning Journey**: Exploring game development frameworks, advanced programming patterns, and modern web technologies
--  **Collaboration**: Actively seeking opportunities to collaborate on open source projects and innovative software solutions
--  **Expertise**: Full-stack development, game programming, version control, and problem-solving
--  **Get in Touch**: marcnietoruiz@gmail.com
+-  **Current Focus**: I'm currently developing an indie game using @raysan5 library with also SteamWorks integration.
+-  **Learning Journey**: For now, I'm getting a computer engineer degree at the Universitat Politècnica de Catalunya.
+-  **Collaboration**: Actively seeking opportunities to collaborate on open source projects.
+-  **Expertise**: I'm quite confident using tools like Unity or VS Code.
 -  **Fun Fact**: I believe that great code is like a well-designed game - it should be intuitive, efficient, and enjoyable to work with!
+-  **Hobbies**: Other than typing code into a machine, I also enjoy playing basketball, lifting weights and swimming.
 
 ---
 
@@ -29,6 +29,7 @@ I'm a passionate **Software Developer** and **Game Enthusiast** with a keen inte
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=cplusplus&logoColor=white)
 ![C\#](https://img.shields.io/badge/C%23-8A2BE2?style=flat-square&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-0000FF?style=flat-square&logo=pascal&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square&logo=sql&logoColor=white)
