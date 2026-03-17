@@ -29,6 +29,7 @@ I really like **Software and Game Development** and I'm into learning new techno
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=cplusplus&logoColor=white)
 ![C\#](https://img.shields.io/badge/C%23-8A2BE2?style=flat-square&logo=csharp&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
