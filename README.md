@@ -84,7 +84,7 @@ I really like **Software and Game Development** and I'm into learning new techno
   
 [![GitHub](https://img.shields.io/badge/GitHub-manieto11-101010?style=plastic&logo=github&logoColor=white&labelColor=181717)](https://github.com/manieto11)
 
-![Gmail](https://img.shields.io/badge/Gmail-marcnietoruiz@gmail.com-101010?style=plastic&logo=gmail&logoColor=white&labelColor=EA4335)
+[![Gmail](https://img.shields.io/badge/Gmail-marcnietoruiz@gmail.com-101010?style=plastic&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:marcnietoruiz@gmail.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-manieto__11-101010?style=plastic&logo=instagram&logoColor=white&labelColor=FF0069)](https://www.instagram.com/manieto_11/)
 
