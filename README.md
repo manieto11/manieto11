@@ -78,17 +78,6 @@ I really like **Software and Game Development** and I'm into learning new techno
 
 ---
 
-## GitHub Stats
-
-<div align=center>  
-  
-  ![GitHub followers](https://img.shields.io/github/followers/manieto11?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/manieto11?style=social)
-  
-</div>
-
----
-
 ## Contact Me
 
 <div align="center">
