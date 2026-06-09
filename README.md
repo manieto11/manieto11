@@ -10,14 +10,9 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I really like **Software and Game Development** and I'm into learning new technologies.
+I'm actively trying to develop an idie game, without using any game engine. 
 
--  **Current Focus**: I'm currently developing an indie game using @raysan5 library with also SteamWorks integration.
--  **Learning Journey**: For now, I'm getting a computer engineering degree at the Universitat Politècnica de Catalunya.
--  **Collaboration**: Actively seeking opportunities to collaborate on open source projects.
--  **Expertise**: I'm quite confident using tools like Unity or VS Code.
--  **Fun Fact**: I believe that great code is like a well-designed game - it should be intuitive, efficient, and enjoyable to work with!
--  **Hobbies**: Other than typing code into a machine, I also enjoy playing basketball, lifting weights and swimming.
+I also like playing basketball and swimming (yeah, I touch grass).
 
 ---
 
