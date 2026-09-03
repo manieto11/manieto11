@@ -34,6 +34,7 @@ I also like playing basketball and swimming (yeah, I touch grass).
 ![Pascal](https://img.shields.io/badge/Pascal-0000FF?style=flat-square&logo=pascal&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square&logo=sql&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-855CD6?style=flat-square&logo=scratch&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 </div>
