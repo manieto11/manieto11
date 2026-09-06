@@ -3,16 +3,15 @@
 # Hi, I'm @manieto11
 Welcome to my GitHub profile!
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=manieto11&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=manieto11&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
 
 ---
 
 ## About Me
+I am a Computer Science student at Universitat Politècnica de Barcelona. Currently, my primary technical focus is developing an indie game from scratch, which involves building custom architecture rather than relying on a traditional game engine.
 
-I'm actively trying to develop an idie game, without using any game engine. 
-
-I also like playing basketball and swimming (yeah, I touch grass).
+Outside of my studies and programming, I dedicate my free time to weightlifting and maintaining an active lifestyle.
 
 ---
 
@@ -78,12 +77,9 @@ I also like playing basketball and swimming (yeah, I touch grass).
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/-manieto11-101010?style=plastic&logo=github&logoColor=white&labelColor=181717)](https://github.com/manieto11)
-
+[![GitHub](https://img.shields.io/badge/-manieto11-101010?style=plastic&logo=github&logoColor=white&labelColor=181717)](https://github.com/manieto11) 
 [![Gmail](https://img.shields.io/badge/-marcnietoruiz@gmail.com-101010?style=plastic&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:marcnietoruiz@gmail.com)
-
 [![Instagram](https://img.shields.io/badge/-manieto__11-101010?style=plastic&logo=instagram&logoColor=white&labelColor=FF0069)](https://www.instagram.com/manieto_11/)
-
 [![X](https://img.shields.io/badge/-MaNieto11-101010?style=plastic&logo=x&logoColor=white&labelColor=000000)](https://x.com/MaNieto11)
 
 </div>
